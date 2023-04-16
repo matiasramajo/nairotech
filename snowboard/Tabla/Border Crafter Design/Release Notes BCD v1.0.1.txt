@@ -1,0 +1,8 @@
+Release Notes 
+Boardcrafter Design v1.0.1
+
+Two bugs from Boardcrafter Design v1.0.0 have been fixed in v1.0.1
+
+BUG 1: Center Y-axis reference line drifted with modified running lengths.
+
+BUG 2: Sidecut bias off by default with no ability to enable.
